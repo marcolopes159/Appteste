@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjetoTest</string>
+    <string name="Nome">nome</string>
+    <string name="senha">Senha</string>
+    <string name="login">login</string>
+    <string name="cadastrar">cadastrar</string>
+</resources>
